@@ -1,0 +1,5 @@
+Harf notu ve kredi değerlerinin yazdığı kısımlara bu başlıkları da ekle
+Bir homepage ekle 
+Homepage'den dönem not ortalamasına ve genel not ortalamasına erişilsin
+Genel not ortalaması içeren sayfayı ekle
+Karanlık mode da ekleyebilirsin
